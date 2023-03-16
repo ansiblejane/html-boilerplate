@@ -1,2 +1,2 @@
-# html-boilerplate
+# html-foundations
 Learning HTML
